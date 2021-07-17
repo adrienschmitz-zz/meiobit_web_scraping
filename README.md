@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://www.python.org//">Python</a>
 </h1>
-<p align="center"> Um raspador das noticias da pagina principal do blog Meiobit. Todo o conteúdo é de propriedade e responsabilidade dos auteres</p>
+<p align="center"> Um raspador das noticias da pagina principal do blog Meiobit. Todo o conteúdo é de propriedade e responsabilidade dos autores</p>
 
 
 
